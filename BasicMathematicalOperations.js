@@ -1,4 +1,4 @@
-// Basic Mathematical Operations
+// v
 // ('+', 4, 7) --> 11
 // ('-', 15, 18) --> -3
 // ('*', 5, 5) --> 25
@@ -24,3 +24,4 @@ function basicOp(operation, value1, value2)
 {
     return eval(value1 + operation + value2);
 }
+
